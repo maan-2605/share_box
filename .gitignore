@@ -1,5 +1,5 @@
 .env
 share_box_backend/uploads/*
-!uploads/.gitkeep
+!share_box_backend/uploads/.gitkeep
 node_modules
 .DS_Store
