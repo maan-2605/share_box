@@ -8,7 +8,11 @@ Share Box is a robust platform that allows users to share files seamlessly. With
 
 ## 📸 Screenshots
 
-You can check out the screenshots of the website in the `screenshots` directory of this repository.
+![Screenshot 2024-01-16 170724](https://github.com/maan-2605/share_box/assets/72200025/03dc8bfb-ad11-4286-bfdd-00bbeaf903f7)
+
+![Screenshot 2024-01-16 171129](https://github.com/maan-2605/share_box/assets/72200025/30319432-5039-40aa-be7b-8e458f8668bb)
+
+
 
 ## 🛠️ Built With
 
